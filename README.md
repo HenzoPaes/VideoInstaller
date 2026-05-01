@@ -28,7 +28,7 @@ Aplicativo simples e intuitivo para baixar vídeos e áudios do YouTube, com sup
 
 Acesse a aba **Releases** e baixe a versão mais recente:
 
-👉 [v1.1](https://github.com/HenzoPaes/VideoInstaller/releases/download/v1.1/Video.Installer.v1.1.exe)
+👉 [v1.2](https://github.com/HenzoPaes/VideoInstaller/releases/download/v1.2/Video.Installer.v1.2.exe)
 
 ---
 
